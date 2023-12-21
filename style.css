@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  *{
      margin: 0px;
      padding: 0px;
@@ -247,11 +246,8 @@
      width: 23%;
      background-size: cover;
      flex-wrap: wrap;
-    /*  background-repeat: no-repeat;
-     /* background-color: grey; */
-     /* background-blend-mode: multiply; */
-     /* filter: brightness(50%); */ 
      }
+     
  .all-articals div:hover{
      box-shadow: 2px 2px 9px 4px rgb(99, 97, 97);
      cursor: pointer;
@@ -465,7 +461,6 @@ footer li:hover{
 .last-footer img{
     width: 20px;
     margin: 5px;
-=======
  *{
      margin: 0px;
      padding: 0px;
@@ -914,5 +909,4 @@ footer li:hover{
 .last-footer img{
     width: 20px;
     margin: 5px;
->>>>>>> master
 }
